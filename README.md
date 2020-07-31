@@ -19,7 +19,7 @@ Into to JS and NodeJS
 Version Control and Git 
 * Week 3 - 
 NodeJS as a Server 
-* Week 4 -  
+* Week 4 - 
 Angular 
 * Week 5 - 
 Data Persistences and Services 
