@@ -13,7 +13,7 @@ ownload package and run app
 Launch app
 
 ## Course: 
-⋅⋅⋅ Week 1
+* Week 1
 Into to JS and NodeJS
 ⋅⋅⋅ Week 2
 Version Control and Git 
